@@ -10,5 +10,5 @@ This project is based on Landing.js written by vah7id
 Requirements
 ===========
 
-IIS web server/Windows
+IIS web server/Windows, because it is using Asp.NET C#
 
