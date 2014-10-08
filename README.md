@@ -1,7 +1,7 @@
 Simple landing page
 ===================
 
-Live demo here:  http://angjobs.com
+Live demo here:  http://landing.angjobs.com/
 
 Landing page with a box for collecting emails.The background image is taken automatically from the Bing search engine.
 
